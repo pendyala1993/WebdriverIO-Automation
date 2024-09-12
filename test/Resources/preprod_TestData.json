@@ -1,0 +1,21 @@
+{
+    "retirementUri": "insights-tools/retirement-calculator.html",
+    "retirementData": {
+    "currentAge": 40,
+    "retirementAge": 68,
+    "currentAnnualIncome": 100000,
+    "spouseAnnualIncome": 68000,
+    "currentRetirementSavings": 500000,
+    "currentRetirementContribution": 10,
+    "AnnualRetirementContributionIncrease": ".25",
+    "socialSecurityIncome": "Yes",
+    "relationshipStatus": "Married",
+    "socialSecurityOverride": 4000,
+    "additionalIncome": 500,
+    "retirementPeriod": 20,
+    "postRetirementIncomeIncrease": "Yes",
+    "percentageOfFinalAnnualIncome": 75,
+    "preRetirementReturn": 8,
+    "postRetirementReturn": 5
+    }
+}
